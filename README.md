@@ -1,5 +1,5 @@
 # AI-Powered Virtual Learning Assistant
-  we have Designed this for a website called OLABS.
+  We have Designed this for a website called OLABS.
 
 ## Problem Statement
 Current platforms lack comprehensive accessibility features, making learning difficult for many students. Challenges include:
